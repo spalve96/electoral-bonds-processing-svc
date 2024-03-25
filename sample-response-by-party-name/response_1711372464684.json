@@ -1,0 +1,582 @@
+{
+  "nameofThePoliticalParty": "NATIONALIST CONGRESS PARTY MAHARASHTRA PRADESH",
+  "totalReceivedAmount": 285000000,
+  "donors": [
+    {
+      "purchaserName": "AMBUJA HOUSING AND URBAN INFRASTRUCTURE CO. LTD.",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL12550",
+      "dateOfPurchase": "2019-05-07"
+    },
+    {
+      "purchaserName": "AMBUJA HOUSING AND URBAN INFRASTRUCTURE CO. LTD.",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL12547",
+      "dateOfPurchase": "2019-05-07"
+    },
+    {
+      "purchaserName": "AMBUJA HOUSING AND URBAN INFRASTRUCTURE CO. LTD.",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL12553",
+      "dateOfPurchase": "2019-05-07"
+    },
+    {
+      "purchaserName": "AMBUJA HOUSING AND URBAN INFRASTRUCTURE CO. LTD.",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL12556",
+      "dateOfPurchase": "2019-05-07"
+    },
+    {
+      "purchaserName": "AMBUJA HOUSING AND URBAN INFRASTRUCTURE CO. LTD.",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL12557",
+      "dateOfPurchase": "2019-05-07"
+    },
+    {
+      "purchaserName": "AMBUJA HOUSING AND URBAN INFRASTRUCTURE CO. LTD.",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL12548",
+      "dateOfPurchase": "2019-05-07"
+    },
+    {
+      "purchaserName": "AMBUJA HOUSING AND URBAN INFRASTRUCTURE CO. LTD.",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL12554",
+      "dateOfPurchase": "2019-05-07"
+    },
+    {
+      "purchaserName": "AMBUJA HOUSING AND URBAN INFRASTRUCTURE CO. LTD.",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL12549",
+      "dateOfPurchase": "2019-05-07"
+    },
+    {
+      "purchaserName": "AMBUJA HOUSING AND URBAN INFRASTRUCTURE CO. LTD.",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL12552",
+      "dateOfPurchase": "2019-05-07"
+    },
+    {
+      "purchaserName": "AMBUJA HOUSING AND URBAN INFRASTRUCTURE CO. LTD.",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL12555",
+      "dateOfPurchase": "2019-05-07"
+    },
+    {
+      "purchaserName": "TORRENT POWER LIMITED",
+      "denominationAmount": 10000000,
+      "bondNumber": "OC3887",
+      "dateOfPurchase": "2019-10-01"
+    },
+    {
+      "purchaserName": "TORRENT POWER LIMITED",
+      "denominationAmount": 10000000,
+      "bondNumber": "OC3878",
+      "dateOfPurchase": "2019-10-01"
+    },
+    {
+      "purchaserName": "AMBUJA REALTY EVENTS MANAGMENT LTD",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL11489",
+      "dateOfPurchase": "2019-10-03"
+    },
+    {
+      "purchaserName": "AMBUJA REALTY EVENTS MANAGMENT LTD",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL11491",
+      "dateOfPurchase": "2019-10-03"
+    },
+    {
+      "purchaserName": "AMBUJA REALTY EVENTS MANAGMENT LTD",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL11493",
+      "dateOfPurchase": "2019-10-03"
+    },
+    {
+      "purchaserName": "AMBUJA REALTY EVENTS MANAGMENT LTD",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL11495",
+      "dateOfPurchase": "2019-10-03"
+    },
+    {
+      "purchaserName": "AMBUJA REALTY EVENTS MANAGMENT LTD",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL11497",
+      "dateOfPurchase": "2019-10-03"
+    },
+    {
+      "purchaserName": "CHANDA INVESTMENT TRADING CO. PVT",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13142",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "CHANDA INVESTMENT TRADING CO. PVT",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13136",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "CHANDA INVESTMENT TRADING CO. PVT",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13140",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "CHANDA INVESTMENT TRADING CO. PVT",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13138",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "CHANDA INVESTMENT TRADING CO. PVT",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13144",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "CYZACHEM PVT LTD",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13137",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "CYZACHEM PVT LTD",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13143",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "CYZACHEM PVT LTD",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13147",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "CYZACHEM PVT LTD",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13145",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "CYZACHEM PVT LTD",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13139",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "CYZACHEM PVT LTD",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13149",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "CYZACHEM PVT LTD",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13141",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "CYZACHEM PVT LTD",
+      "denominationAmount": 100000,
+      "bondNumber": "OL2201",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "CYZACHEM PVT LTD",
+      "denominationAmount": 100000,
+      "bondNumber": "OL2203",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "CYZACHEM PVT LTD",
+      "denominationAmount": 100000,
+      "bondNumber": "OL2199",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "CYZACHEM PVT LTD",
+      "denominationAmount": 100000,
+      "bondNumber": "OL2197",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "CYZACHEM PVT LTD",
+      "denominationAmount": 100000,
+      "bondNumber": "OL2205",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "MAGARPATTA TOWNSHIP DEV AND CONST C",
+      "denominationAmount": 10000000,
+      "bondNumber": "OC7701",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "MAGARPATTA TOWNSHIP DEV AND CONST C",
+      "denominationAmount": 10000000,
+      "bondNumber": "OC7703",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "MAGARPATTA TOWNSHIP DEV AND CONST C",
+      "denominationAmount": 10000000,
+      "bondNumber": "OC7667",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "NANDED CITY DEVELOPMENT AND CONSTRU",
+      "denominationAmount": 10000000,
+      "bondNumber": "OC7704",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "NANDED CITY DEVELOPMENT AND CONSTRU",
+      "denominationAmount": 10000000,
+      "bondNumber": "OC7702",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "SEZ BIOTECH SERVICES PVT LTD",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13158",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "SEZ BIOTECH SERVICES PVT LTD",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13152",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "SEZ BIOTECH SERVICES PVT LTD",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13154",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "SEZ BIOTECH SERVICES PVT LTD",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13156",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "SEZ BIOTECH SERVICES PVT LTD",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13146",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "SEZ BIOTECH SERVICES PVT LTD",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13150",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "SEZ BIOTECH SERVICES PVT LTD",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13148",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "SEZ BIOTECH SERVICES PVT LTD",
+      "denominationAmount": 100000,
+      "bondNumber": "OL2200",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "SEZ BIOTECH SERVICES PVT LTD",
+      "denominationAmount": 100000,
+      "bondNumber": "OL2206",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "SEZ BIOTECH SERVICES PVT LTD",
+      "denominationAmount": 100000,
+      "bondNumber": "OL2204",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "SEZ BIOTECH SERVICES PVT LTD",
+      "denominationAmount": 100000,
+      "bondNumber": "OL2202",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "SEZ BIOTECH SERVICES PVT LTD",
+      "denominationAmount": 100000,
+      "bondNumber": "OL2208",
+      "dateOfPurchase": "2019-10-09"
+    },
+    {
+      "purchaserName": "MAHALAXMI VIDYUT PVT.LTD.",
+      "denominationAmount": 10000000,
+      "bondNumber": "OC7731",
+      "dateOfPurchase": "2019-10-10"
+    },
+    {
+      "purchaserName": "MAHALAXMI VIDYUT PVT.LTD.",
+      "denominationAmount": 10000000,
+      "bondNumber": "OC7733",
+      "dateOfPurchase": "2019-10-10"
+    },
+    {
+      "purchaserName": "MAHALAXMI VIDYUT PVT.LTD.",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13178",
+      "dateOfPurchase": "2019-10-10"
+    },
+    {
+      "purchaserName": "MAHALAXMI VIDYUT PVT.LTD.",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13172",
+      "dateOfPurchase": "2019-10-10"
+    },
+    {
+      "purchaserName": "MAHALAXMI VIDYUT PVT.LTD.",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13174",
+      "dateOfPurchase": "2019-10-10"
+    },
+    {
+      "purchaserName": "MAHALAXMI VIDYUT PVT.LTD.",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13170",
+      "dateOfPurchase": "2019-10-10"
+    },
+    {
+      "purchaserName": "MAHALAXMI VIDYUT PVT.LTD.",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13176",
+      "dateOfPurchase": "2019-10-10"
+    },
+    {
+      "purchaserName": "RAHUL BHATIA",
+      "denominationAmount": 10000000,
+      "bondNumber": "OC9155",
+      "dateOfPurchase": "2021-04-07"
+    },
+    {
+      "purchaserName": "RAHUL BHATIA",
+      "denominationAmount": 10000000,
+      "bondNumber": "OC9159",
+      "dateOfPurchase": "2021-04-07"
+    },
+    {
+      "purchaserName": "RAHUL BHATIA",
+      "denominationAmount": 10000000,
+      "bondNumber": "OC9157",
+      "dateOfPurchase": "2021-04-07"
+    },
+    {
+      "purchaserName": "RAHUL BHATIA",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13536",
+      "dateOfPurchase": "2021-04-07"
+    },
+    {
+      "purchaserName": "RAHUL BHATIA",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13538",
+      "dateOfPurchase": "2021-04-07"
+    },
+    {
+      "purchaserName": "RAHUL BHATIA",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13548",
+      "dateOfPurchase": "2021-04-07"
+    },
+    {
+      "purchaserName": "RAHUL BHATIA",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13534",
+      "dateOfPurchase": "2021-04-07"
+    },
+    {
+      "purchaserName": "RAHUL BHATIA",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13540",
+      "dateOfPurchase": "2021-04-07"
+    },
+    {
+      "purchaserName": "RAHUL BHATIA",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13544",
+      "dateOfPurchase": "2021-04-07"
+    },
+    {
+      "purchaserName": "RAHUL BHATIA",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13542",
+      "dateOfPurchase": "2021-04-07"
+    },
+    {
+      "purchaserName": "RAHUL BHATIA",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL13546",
+      "dateOfPurchase": "2021-04-07"
+    },
+    {
+      "purchaserName": "V M SALGAOCAR CORPORATION PVT LTD",
+      "denominationAmount": 100000,
+      "bondNumber": "OL13956",
+      "dateOfPurchase": "2022-01-06"
+    },
+    {
+      "purchaserName": "V M SALGAOCAR CORPORATION PVT LTD",
+      "denominationAmount": 100000,
+      "bondNumber": "OL13946",
+      "dateOfPurchase": "2022-01-06"
+    },
+    {
+      "purchaserName": "V M SALGAOCAR CORPORATION PVT LTD",
+      "denominationAmount": 100000,
+      "bondNumber": "OL14010",
+      "dateOfPurchase": "2022-01-06"
+    },
+    {
+      "purchaserName": "V M SALGAOCAR CORPORATION PVT LTD",
+      "denominationAmount": 100000,
+      "bondNumber": "OL13950",
+      "dateOfPurchase": "2022-01-06"
+    },
+    {
+      "purchaserName": "V M SALGAOCAR CORPORATION PVT LTD",
+      "denominationAmount": 100000,
+      "bondNumber": "OL14002",
+      "dateOfPurchase": "2022-01-06"
+    },
+    {
+      "purchaserName": "V M SALGAOCAR CORPORATION PVT LTD",
+      "denominationAmount": 100000,
+      "bondNumber": "OL14006",
+      "dateOfPurchase": "2022-01-06"
+    },
+    {
+      "purchaserName": "V M SALGAOCAR CORPORATION PVT LTD",
+      "denominationAmount": 100000,
+      "bondNumber": "OL13952",
+      "dateOfPurchase": "2022-01-06"
+    },
+    {
+      "purchaserName": "V M SALGAOCAR CORPORATION PVT LTD",
+      "denominationAmount": 100000,
+      "bondNumber": "OL14012",
+      "dateOfPurchase": "2022-01-06"
+    },
+    {
+      "purchaserName": "V M SALGAOCAR CORPORATION PVT LTD",
+      "denominationAmount": 100000,
+      "bondNumber": "OL13948",
+      "dateOfPurchase": "2022-01-06"
+    },
+    {
+      "purchaserName": "V M SALGAOCAR CORPORATION PVT LTD",
+      "denominationAmount": 100000,
+      "bondNumber": "OL14082",
+      "dateOfPurchase": "2022-01-06"
+    },
+    {
+      "purchaserName": "GOA CARBON LTD",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL3461",
+      "dateOfPurchase": "2022-01-10"
+    },
+    {
+      "purchaserName": "QWIKSUPPLYCHAINPRIVATELIMITED",
+      "denominationAmount": 10000000,
+      "bondNumber": "OC10954",
+      "dateOfPurchase": "2022-01-10"
+    },
+    {
+      "purchaserName": "QWIKSUPPLYCHAINPRIVATELIMITED",
+      "denominationAmount": 10000000,
+      "bondNumber": "OC10958",
+      "dateOfPurchase": "2022-01-10"
+    },
+    {
+      "purchaserName": "QWIKSUPPLYCHAINPRIVATELIMITED",
+      "denominationAmount": 10000000,
+      "bondNumber": "OC10960",
+      "dateOfPurchase": "2022-01-10"
+    },
+    {
+      "purchaserName": "QWIKSUPPLYCHAINPRIVATELIMITED",
+      "denominationAmount": 10000000,
+      "bondNumber": "OC10952",
+      "dateOfPurchase": "2022-01-10"
+    },
+    {
+      "purchaserName": "QWIKSUPPLYCHAINPRIVATELIMITED",
+      "denominationAmount": 10000000,
+      "bondNumber": "OC10970",
+      "dateOfPurchase": "2022-01-10"
+    },
+    {
+      "purchaserName": "QWIKSUPPLYCHAINPRIVATELIMITED",
+      "denominationAmount": 10000000,
+      "bondNumber": "OC10962",
+      "dateOfPurchase": "2022-01-10"
+    },
+    {
+      "purchaserName": "QWIKSUPPLYCHAINPRIVATELIMITED",
+      "denominationAmount": 10000000,
+      "bondNumber": "OC10968",
+      "dateOfPurchase": "2022-01-10"
+    },
+    {
+      "purchaserName": "QWIKSUPPLYCHAINPRIVATELIMITED",
+      "denominationAmount": 10000000,
+      "bondNumber": "OC10966",
+      "dateOfPurchase": "2022-01-10"
+    },
+    {
+      "purchaserName": "QWIKSUPPLYCHAINPRIVATELIMITED",
+      "denominationAmount": 10000000,
+      "bondNumber": "OC10956",
+      "dateOfPurchase": "2022-01-10"
+    },
+    {
+      "purchaserName": "QWIKSUPPLYCHAINPRIVATELIMITED",
+      "denominationAmount": 10000000,
+      "bondNumber": "OC10964",
+      "dateOfPurchase": "2022-01-10"
+    },
+    {
+      "purchaserName": "TORRENT POWER LIMITED",
+      "denominationAmount": 10000000,
+      "bondNumber": "OC13157",
+      "dateOfPurchase": "2023-04-11"
+    },
+    {
+      "purchaserName": "TORRENT POWER LIMITED",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL10013",
+      "dateOfPurchase": "2023-04-11"
+    },
+    {
+      "purchaserName": "TORRENT POWER LIMITED",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL10015",
+      "dateOfPurchase": "2023-04-11"
+    },
+    {
+      "purchaserName": "TORRENT POWER LIMITED",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL10017",
+      "dateOfPurchase": "2023-04-11"
+    },
+    {
+      "purchaserName": "TORRENT POWER LIMITED",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL10019",
+      "dateOfPurchase": "2023-04-11"
+    },
+    {
+      "purchaserName": "TORRENT POWER LIMITED",
+      "denominationAmount": 1000000,
+      "bondNumber": "TL10011",
+      "dateOfPurchase": "2023-04-11"
+    }
+  ]
+}
